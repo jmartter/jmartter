@@ -21,9 +21,6 @@ Sistema de clasificación multiclase de 8 géneros musicales mediante redes neur
 **🏙️ Ciudad Wakanda — Plataforma distribuida de microservicios**  
 Arquitectura de 8 microservicios Spring Boot que simulan datos urbanos (energía, tráfico, aglomeraciones), con observabilidad end-to-end mediante Prometheus y Grafana, streams reactivos con Spring WebFlux y mensajería asíncrona con RabbitMQ.
 
-**🧪 Umbrella Corporation — Sistema concurrente de análisis de datos**  
-Procesamiento paralelo de datos CSV mediante múltiples ExecutorService, con streaming en tiempo real vía Server-Sent Events a una interfaz web con gráficos interactivos para análisis de correlaciones.
-
 ## 🎯 Objetivo
 
 Buscando oportunidades **junior en Data Engineering, Data Analytics o Machine Learning** donde aplicar mi formación en Big Data, mi experiencia en integración de datos empresariales y mis proyectos de Deep Learning.
