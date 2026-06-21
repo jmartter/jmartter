@@ -2,7 +2,7 @@
 
 🎓 Estudiante de último curso de **Ingeniería Informática** en la Universidad Alfonso X el Sabio (UAX), orientado a **Data Engineering**, análisis de datos y **Machine Learning**.  
 💼 Actualmente realizando prácticas en **Seidor** dentro del área de integración y transformación de datos entre sistemas empresariales.  
-🎓 Admitido en el **Máster en Big Data** de la Universidad Europea de Madrid (2026 — 2027).
+
 
 ## ⚡ Stack Técnico
 
