@@ -1,8 +1,8 @@
 # 👋 Hola, soy Jose
 
-🎓 **Ingeniero Informático** por la Universidad Alfonso X el Sabio (UAX), orientado a **Data Engineering** y **Machine Learning**.  
+🎓 **Ingeniero Informático** por la Universidad Alfonso X el Sabio, orientado a **Data Engineering** y **Machine Learning**.  
 💼 Actualmente en **Seidor**, dentro del área de integración y transformación de datos entre sistemas empresariales.  
-🚀 Admitido en el **Máster en Big Data** de la Universidad Europea de Madrid (2026 — 2027).
+🚀 Admitido en el **Máster en Big Data** de la Universidad Europea de Madrid (2026 - 2027).
 
 ## ⚡ Stack Técnico
 
